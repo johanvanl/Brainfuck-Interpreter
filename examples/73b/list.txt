@@ -1,0 +1,32 @@
+These examples were taken from http://www.73b.org/
+Written by Keymaker
+
+***** beer.b *****
+
+***** digitalr.b *****
+
+digital root calculator
+
+***** golden.b *****
+
+Golden reatio in brainfuck,
+computes to infinite precision (never terminates).
+
+***** hello.b *****
+
+Hello World language interpreter
+
+***** kbfi.b *****
+
+Keymaker's brainfuck interpreter
+a brainfuck interpreter written in brainfuck
+the memory cells can hold any value from zero to infinity.
+
+***** narc.b *****
+
+***** ptmbsg.b *****
+
+Prouhet~Thue~Morse binary sequence generator.
+
+***** quine.b *****
+
