@@ -36,7 +36,7 @@ class Tape(object):
 	def dec(self):
 		self.tape[self.index] -= 1
 		
-	def put(self):
+	def putChar(self):
 		self.tape[self.index] = ord(sys.stdin.read(1))
 		
 	def getNum(self):
